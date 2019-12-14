@@ -1,6 +1,6 @@
 # millet-schedule-project
 The goal of this project is to help a small business owner semi-automate manual and time consuming administrative tasks 
-relating to staffing schedules, time tracking by the staff, verification of staff hours etc. using Excel, Excel forms and VBA coding.
+relating to staffing schedules, time tracking by the staff, verification of staff hours etc. using an Excel Workbook, Excel forms and VBA coding.
 
 Malia is an expert Excel user with limited VBA coding experience.
 
